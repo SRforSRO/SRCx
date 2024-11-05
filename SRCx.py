@@ -10,7 +10,7 @@ import sqlite3
 
 pName = 'SRC'
 pVersion = '1.1.2'
-pUrl = 'https://raw.githubusercontent.com/SRforSRO/SRCx/master/SRCx.py'
+pUrl = 'https://raw.githubusercontent.com/SRforSRO/SRCx/refs/heads/main/SRCx.py'
 
 # ______________________________ Initializing ______________________________ #
 
